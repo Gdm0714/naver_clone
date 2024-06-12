@@ -1,11 +1,11 @@
 import { BrowserRouter } from "react-router-dom";
 
-import Header from "./Components/app/Header"
-import Nav from "./Components/app/Nav"
-import Main from "./Components/app/Main"
-import Footer from "./Components/app/Footer"
-import AuthProvider from "./Components/context/AuthProvider"
-import HttpHeadersProvider from "./Components/context/HttpHeadersProvider";
+import Header from "./components/app/Header"
+import Nav from "./components/app/Nav"
+import Main from "./components/app/Main"
+import Footer from "./components/app/Footer"
+import AuthProvider from "./components/context/AuthProvider"
+import HttpHeadersProvider from "./components/context/HttpHeadersProvider";
 import "./css/style.css"
 
 function App() {
